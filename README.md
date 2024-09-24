@@ -21,6 +21,8 @@ Power BI dashboard link: C:\Users\user\Documents\Digital wallet transactions das
 
 This project aims to analyze how the digital wallets influence consumer purchasing decisions, identify patterns and trends. The goal is to understand the effect of different digital wallets in making payments for various product categories across different merchants. 
 
+![Dashboard 1](https://github.com/user-attachments/assets/29fd13f0-1ca6-4b8e-b995-5795fb11d023)
+
 ### Objectives
 
 1. To understand the spending patterns across different product categories. 
