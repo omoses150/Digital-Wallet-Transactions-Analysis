@@ -75,10 +75,6 @@ In the initial data preparation phase, I performed the following tasks;
 
 EDA involved exploring the digital wallet transactions data to answer key questions that form our objectives.
 
-### Exploratory Data Analysis
-
-EDA involved exploring the digital wallet transactions data to answer key questions that form our objectives.
-
 #### Multivariate Analysis
 
 Studying the relationships between various numerical columns: 'product_amount', 'transaction_fee', 'cashback', 'loyalty_points'.
